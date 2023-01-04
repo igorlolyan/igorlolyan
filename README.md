@@ -14,7 +14,7 @@
 
 <h2 align="left">📊Minhas Estatísticas📊</h2>
 
-<div align="left">
+<div align="center">
 <a href="https://github.com/igorlolyan">
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=igorlolyan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlolyan&layout=compact&langs_count=7&theme=tokyonight"/>
