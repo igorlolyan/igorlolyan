@@ -16,7 +16,7 @@
 
 <div align="center">
 <a href="https://github.com/igorlolyan">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=igorlolyan&show_icons=true&theme=tokyonight&hide=stars,commits,prs,issues,contribs"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=igorlolyan&show_icons=true&theme=tokyonight&hide=stars,issues,contribs"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlolyan&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
